@@ -1,0 +1,24 @@
+{
+    "author": "ntmathis@maine.rr.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "first_project",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "first_project",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "7a3406f5-8bdc-411f-bb08-78a4ad3e2a2f",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
