@@ -2,9 +2,9 @@
   "uuid": "ed70b15c-3c48-4828-8e8c-e39a28efb38d",
   "shortName": "Nate's watchface",
   "longName": "Nate's watchface",
-  "companyName": "Pebble",
+  "companyName": "NateM926",
   "versionCode": 1,
-  "versionLabel": "1.0",
+  "versionLabel": "1.1",
   "sdkVersion": 3,
   "watchapp": {
     "watchface": true
