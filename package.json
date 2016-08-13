@@ -1,23 +1,37 @@
 {
-    "author": "ntmathis@maine.rr.com",
+    "author": "Pebble",
     "dependencies": {},
     "keywords": [],
-    "name": "first_project",
+    "name": "nate-s-watchface",
     "pebble": {
         "capabilities": [
             ""
         ],
-        "displayName": "first_project",
-        "enableMultiJS": true,
-        "messageKeys": [],
+        "displayName": "Nate's watchface",
+        "enableMultiJS": false,
+        "messageKeys": {},
         "projectType": "native",
         "resources": {
-            "media": []
+            "media": [
+                {
+                    "characterRegex": "[0-9:.]",
+                    "file": "fonts/GatsbyFLF-Bold",
+                    "name": "GATSBY_BOLD_48",
+                    "targetPlatforms": [
+                        "chalk"
+                    ],
+                    "trackingAdjust": 2,
+                    "type": "font"
+                }
+            ]
         },
         "sdkVersion": "3",
-        "uuid": "7a3406f5-8bdc-411f-bb08-78a4ad3e2a2f",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "32c9d192-25de-450f-8e0f-5c36b3b67098",
         "watchapp": {
-            "watchface": false
+            "watchface": true
         }
     },
     "version": "1.0.0"
